@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhyGab
-- 👀 I’m interested in any time of coding, really
+- 👀 I’m interested in any kind of coding, really
 - 🌱 I’m currently learning arduino && C++
 - 💞️ I’m looking to collaborate on anything i can help
 
